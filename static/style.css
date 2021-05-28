@@ -1,13 +1,11 @@
 body{
-	color: lightblue
+	color: lightblue;
 	width:600px;
 }
 
 .button{
 	padding-top: 20px;
 }
-
-/* Good colors include: MidnightBlue, AliceBlue, MediumSeaGreen, SpringGreen, /*
 
 title {
 	color: midnightblue;
