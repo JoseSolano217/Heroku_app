@@ -1,10 +1,10 @@
 import sqlite3
 import os
 
-if os.path.exists('tweets.sqlite'):
-    os.remove('tweets.sqlite')
+if os.path.exists('../tweets.sqlite'):
+    os.remove('../tweets.sqlite')
 
-conn = sqlite3.connect('tweets.sqlite')
+conn = sqlite3.connect('../tweets.sqlite')
 c = conn.cursor()
 c.execute('CREATE TABLE tweets_db (tweet TEXT, sentiment INTEGER, date TEXT)')
 
