@@ -1,5 +1,5 @@
 body{
-	color: lightblue;
+	background-color: lightblue;
 	width:600px;
 }
 
@@ -10,4 +10,5 @@ body{
 title {
 	color: midnightblue;
 	font: fantasy;
+	text-align: center;
 }
