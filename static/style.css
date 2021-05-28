@@ -1,4 +1,5 @@
 body{
+	color: lightblue
 	width:600px;
 }
 
@@ -8,6 +9,6 @@ body{
 
 /* Good colors include: MidnightBlue, AliceBlue, MediumSeaGreen, SpringGreen, /*
 
-h1 {
-	color: MidnightBlue;
+title {
+	color: midnightblue;
 }
