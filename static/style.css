@@ -1,17 +1,18 @@
 body{
 	background-color: lightblue;
 	color: midnightblue;
-	font: fantasy;
+	font: sans-serif;
 	text-align: center;
-	width:600px;
+	width: fit-content;
 	align-content: center;
+
 }
 
 .button{
 	padding-top: 20px;
 }
 
-title {
-	font: fantasy;
+.title {
+	font: status-bar;
 	text-align: center;
 }
