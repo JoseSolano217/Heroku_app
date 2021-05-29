@@ -17,3 +17,11 @@ body{
 	text-align: center;
 }
 
+.table {
+	align-content: center;
+}
+
+.input {
+	shape-outside: ellipse();
+	font-family: sans-serif;
+}
