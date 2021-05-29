@@ -1,18 +1,19 @@
 body{
 	background-color: lightblue;
 	color: midnightblue;
-	font: sans-serif;
+	font-family: fantasy;
 	text-align: center;
 	width: fit-content;
 	align-content: center;
-
 }
 
 .button{
+	shape-outside: ellipse();
 	padding-top: 20px;
 }
 
 .title {
-	font: status-bar;
+	font-family: monospace;
 	text-align: center;
 }
+
